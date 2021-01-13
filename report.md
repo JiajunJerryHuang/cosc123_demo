@@ -6,6 +6,8 @@ this is just random text
 
 ### level 3 heading
 
+If you want to *italicize*, add one star
+
 If you want to **bold**, add two stars
 
 Make a list:
